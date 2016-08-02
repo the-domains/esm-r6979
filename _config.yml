@@ -1,16 +1,16 @@
-typography_spectrum: 0.7762531884945929
+typography_spectrum: 0.7225751066580415
 color:
-  brandStrength: 0.8752171073574573
-  lightness: 0.31517162173986435
-  saturation: 0.7610825509764254
-  rhythmicContrast: 0.3209047040436417
+  brandStrength: 0.8657228914089501
+  lightness: 0.17827038606628776
+  saturation: 0.4180271290242672
+  rhythmicContrast: 0.8509642733260989
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-layout_spectrum: 0.6388566691894084
+layout_spectrum: 0.08810791256837547
 name: f
 title: EFFRTLSSSRT
 description: money.got
