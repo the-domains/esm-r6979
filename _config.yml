@@ -1,4 +1,3 @@
-layout_spectrum: 0.6388566691894084
 typography_spectrum: 0.7762531884945929
 color:
   brandStrength: 0.8752171073574573
@@ -11,5 +10,7 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+layout_spectrum: 0.6388566691894084
 name: ESM
 title: EFFRTLSSSRT
+description: get money.
