@@ -1,24 +1,36 @@
-typography_spectrum: 0.7762531884945929
-content_rating:
-  adult: false
+title: EFFRTLSSSRT
+layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: money.got
 color:
-  brandStrength: 0.8752171073574573
-  lightness: 0.31517162173986435
-  saturation: 0.7610825509764254
-  rhythmicContrast: 0.3209047040436417
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.4033297
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-layout_spectrum: 0.6388566691894084
-name: ESM
+  rhythmicContrast: 1
+typography_spectrum: 0.5064447
 navigation:
   - name: ' f bfg'
     id: 42a96ec8-3349-4d2a-9134-db66209db485
     type: content
+content_rating:
+  adult: false
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/66a2d3aa-ccf0-4d81-87a4-f10207fbaf42.jpg
-title: EFFRTLSSSRT
-description: money.got
+name: ESM
