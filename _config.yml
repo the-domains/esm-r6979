@@ -1,4 +1,6 @@
 typography_spectrum: 0.7762531884945929
+content_rating:
+  adult: false
 color:
   brandStrength: 0.8752171073574573
   lightness: 0.31517162173986435
@@ -16,5 +18,7 @@ navigation:
   - name: ' f bfg'
     id: 42a96ec8-3349-4d2a-9134-db66209db485
     type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/66a2d3aa-ccf0-4d81-87a4-f10207fbaf42.jpg
 title: EFFRTLSSSRT
 description: money.got
