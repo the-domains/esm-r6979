@@ -9,8 +9,8 @@ description: >-
   whose trying to ride heavy?"
 app_links: []
 title: Black Felony & BlackFitted | Wassup With That | Shot by OhSoAktive
-datePublished: '2017-03-20T12:04:32.243Z'
-dateModified: '2017-03-20T12:04:29.995Z'
+datePublished: '2017-03-28T13:49:47.867Z'
+dateModified: '2017-03-28T13:49:47.364Z'
 via: {}
 inFeed: true
 sourcePath: >-
