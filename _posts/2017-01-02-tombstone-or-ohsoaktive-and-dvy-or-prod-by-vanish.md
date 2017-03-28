@@ -57,8 +57,8 @@ app_links:
     namespace: google
     type: ios
 title: Tombstone | OhSoAktive & DVY | Prod. by Vanish
-datePublished: '2017-03-20T12:04:32.243Z'
-dateModified: '2017-03-20T12:04:29.995Z'
+datePublished: '2017-03-28T13:49:47.857Z'
+dateModified: '2017-03-28T13:49:47.364Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-02-tombstone-or-ohsoaktive-and-dvy-or-prod-by-vanish.md
