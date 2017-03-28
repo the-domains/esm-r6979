@@ -11,8 +11,8 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://www.youtube.com/watch?v=CBMmogDk1Es'
 title: BlackFitted | OhSoAktive - Dolla & A Dream Produced by Mr. Carmack
-datePublished: '2017-03-20T12:04:32.236Z'
-dateModified: '2017-03-20T12:04:29.995Z'
+datePublished: '2017-03-28T13:49:47.867Z'
+dateModified: '2017-03-28T13:49:47.364Z'
 via: {}
 inFeed: true
 sourcePath: >-
