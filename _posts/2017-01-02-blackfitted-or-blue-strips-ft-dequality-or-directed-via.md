@@ -57,8 +57,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=AMzquia4f9k'
 title: BlackFitted | Blue Strips ft DEquality | Directed via ❍▲☰
-datePublished: '2017-03-30T05:44:19.625Z'
-dateModified: '2017-03-30T05:44:17.702Z'
+datePublished: '2017-03-30T06:06:35.263Z'
+dateModified: '2017-03-30T06:06:33.596Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-02-blackfitted-or-blue-strips-ft-dequality-or-directed-via.md
