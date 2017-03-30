@@ -56,8 +56,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=KjLTwOEJu38'
 title: Black Felony | Playa Hataz | Directed via ❍▲☰
-datePublished: '2017-03-30T05:44:19.824Z'
-dateModified: '2017-03-30T05:44:17.702Z'
+datePublished: '2017-03-30T06:06:35.282Z'
+dateModified: '2017-03-30T06:06:33.596Z'
 via: {}
 inFeed: true
 sourcePath: >-
