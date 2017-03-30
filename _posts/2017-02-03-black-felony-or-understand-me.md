@@ -63,8 +63,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/bfDEwTRw4Ho'
 title: Black Felony | UNDERSTAND ME
-datePublished: '2017-03-30T05:44:19.835Z'
-dateModified: '2017-03-30T05:44:17.702Z'
+datePublished: '2017-03-30T06:06:35.288Z'
+dateModified: '2017-03-30T06:06:33.596Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-03-black-felony-or-understand-me.md
