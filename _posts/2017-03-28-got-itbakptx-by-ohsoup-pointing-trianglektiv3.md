@@ -58,8 +58,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/ohsoaktive/got-itbak'
 title: got it.bak.ptx by OhSo▲ktivΞ
-datePublished: '2017-03-30T05:44:19.928Z'
-dateModified: '2017-03-30T05:44:17.702Z'
+datePublished: '2017-03-30T06:06:35.280Z'
+dateModified: '2017-03-30T06:06:33.596Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-03-28-got-itbakptx-by-ohsoup-pointing-trianglektiv3.md
