@@ -1,43 +1,3 @@
-layout_spectrum: 0.20720768452778754
-typography_spectrum: 0.2314113435005345
-color:
-  saturation: 0.4577088556349241
-  brandStrength: 0.9423147266330474
-  lightness: 0.3138294470707637
-  brandColors:
-    - '#2F2933'
-    - '#01A2A6'
-    - '#29D9C2'
-    - '#BDF271'
-    - '#FFFFA6'
-  rhythmicContrast: 0.9007561773896254
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
-author:
-  name: ''
-  url: ''
-logo: null
-name: ❍▲☰
-url: 'http://effortlesssort.money'
-navigation:
-  - name: Youtube
-    url: 'https://www.youtube.com/channel/UCK-BpQQFXaLIsPe5moxDJ3A'
-    type: external
-favicon: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
 title: ''
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -49,18 +9,18 @@ content:
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/c97c6f33-3420-40f9-a88e-1b773355a573.jpg
     metadata:
       author: []
-      related: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
+      related: []
       app_links: []
       '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -73,23 +33,63 @@ content:
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/667ccdf3-c80f-4975-83a6-9dee5514c7a6.jpg
     metadata:
       author: []
-      related: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
       publisher:
+        favicon: null
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
+      related: []
       app_links: []
       '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: ''
-purpose: []
 github: true
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: ''
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+  rhythmicContrast: 1
+coverPrefs:
+  filter: false
+navigation:
+  - name: Youtube
+    url: 'https://www.youtube.com/channel/UCK-BpQQFXaLIsPe5moxDJ3A'
+    type: external
 analytics:
   google: UA-93677250-1
+favicon: null
+name: ❍▲☰
+author:
+  name: ''
+  url: ''
+logo: null
+typography_spectrum: 0.1111708
+layout_spectrum: 1
+content_rating:
+  adult: false
+url: 'http://effortlesssort.money'
